@@ -48,4 +48,4 @@ v-day/
 
 ## License
 
-Do whatever you want with it. Make someone smile.
+Do whatever you want 
